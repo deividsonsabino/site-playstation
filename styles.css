@@ -1,0 +1,258 @@
+* {
+    padding: 0;
+    margin: 0;
+    vertical-align: baseline;
+    list-style: none;
+    border: 0;
+    font-family: "sst", Arial, sans-serif;
+}
+
+
+/* Navbar */
+
+.navbar ul {
+    position: fixed;
+    width: 100%;
+}
+
+.navbar li {
+    display: inline;
+}
+
+
+/* Navbar */
+
+
+/* Negrito */
+
+.font-weight {
+    font-weight: bold;
+}
+
+
+/* Negrito */
+
+
+/* Texto cinza */
+
+.text-grey {
+    color: #757575;
+}
+
+
+/* Texto cinza */
+
+
+/* Texto branco */
+
+.text-white {
+    color: white;
+}
+
+
+/* Texto branco */
+
+
+/* Texto azul */
+
+.text-blue {
+    color: #0070CC;
+}
+
+
+/* Texto azul */
+
+
+/* h1 */
+
+.h3 {
+    font-size: 1.17em
+}
+
+
+/*h1*/
+
+
+/* Button Cinza */
+
+.btn-grey {
+    background-color: #363636;
+    color: white;
+    padding: 8px;
+}
+
+
+/* Button Cinza*/
+
+
+/* Button Azul */
+
+.btn-blue {
+    background-color: #0070CC;
+    color: white;
+    padding: 8px;
+}
+
+
+/* Button Azul*/
+
+
+/*float-right*/
+
+.float-right {
+    float: right;
+}
+
+
+/*float-right*/
+
+
+/*float-left*/
+
+.float-left {
+    float: left;
+}
+
+
+/*float-left*/
+
+
+/* Image responsive */
+
+.img-responsive {
+    width: 100%;
+}
+
+
+/* Image responsive */
+
+
+/* Background cinza  */
+
+.bg-grey {
+    background-color: #363636;
+}
+
+
+/* Background cinza  */
+
+
+/* Margin */
+
+.m-1 {
+    margin: 10px;
+}
+
+.m-2 {
+    margin: 20px;
+}
+
+.m-3 {
+    margin: 30px;
+}
+
+.m-4 {
+    margin: 40px;
+}
+
+.m-5 {
+    margin: 50px;
+}
+
+
+/* Margin */
+
+
+/* Margin top */
+
+.mt-1 {
+    margin-top: 10px;
+}
+
+.mt-2 {
+    margin-top: 20px;
+}
+
+.mt-3 {
+    margin-top: 30px;
+}
+
+.mt-4 {
+    margin-top: 40px;
+}
+
+.mt-5 {
+    margin-top: 50px;
+}
+
+
+/* Margin top*/
+
+
+/* Padding */
+
+.p-1 {
+    padding: 10px;
+}
+
+.p-2 {
+    padding: 20px;
+}
+
+.p-3 {
+    padding: 30px;
+}
+
+.p-4 {
+    padding: 40px;
+}
+
+.p-5 {
+    padding: 50px;
+}
+
+
+/* Padding */
+
+
+/* Padding Top */
+
+.pt-1 {
+    padding-top: 10px;
+}
+
+.pt-2 {
+    padding-top: 20px;
+}
+
+.pt-3 {
+    padding-top: 30px;
+}
+
+.pt-4 {
+    padding-top: 40px;
+}
+
+.pt-5 {
+    padding-top: 50px;
+}
+
+
+/* Padding Top*/
+
+
+/* Flex */
+
+.flex {
+    display: flex;
+}
+
+
+/*flex */
+
+
+/* justify-content-center */
+
+.justify-content-center {
+    justify-content: center;
+}
